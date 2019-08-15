@@ -6,16 +6,12 @@
 
 # Lesson 4: Using an If Statement
 
-# puts "What is your favorite color?"
-# color = gets.chop
 # if color == "blue"
 #     puts "Wow! My favorite color is #{color} also!"
 # end
 
 # Lesson 5: Adding an Else Statement
 
-# puts "What is your favorite color?"
-# color = gets.chop.downcase
 # if color == "blue"
 #     puts "Wow! My favorite color is #{color} also!"
 # else
